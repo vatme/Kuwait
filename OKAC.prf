@@ -1,5 +1,9 @@
 Settings	Settingsfile	\Settings\OKAC.txt
 Settings	sector	\OKAC.sct
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airways	\DataFiles\airway.txt
 LastSession	callsign	OKAC_CTR
 Voice	squelch	95.4
 Voice	PPPT	18677760
