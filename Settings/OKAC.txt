@@ -637,12 +637,12 @@ AG:OKBK_DEL:126.770:rw.liveatc.net:okbk_del
 AG:OKBK_ATIS:126.220:rw.liveatc.net:okbk_atis
 END
 PROFILE
-PROFILE:OKAC_CTR:300:6
-ATIS2:Kuwait Control
+PROFILE:OKAC_CTR:250:6
+ATIS2:Kuwait Center
 ATIS3:
 ATIS4:
 PROFILE:OKBK_APP:150:5
-ATIS2:Kuwait Arrival
+ATIS2:Kuwait Approach
 ATIS3:
 ATIS4:
 PROFILE:OKBK_TWR:50:4

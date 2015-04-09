@@ -7,8 +7,11 @@ Airports:OKAS:name
 Airports:OKAS:symbol
 Airports:OKBK:name
 Airports:OKBK:symbol
-Fixes:ALRIM:name
-Fixes:ALRIM:symbol
+ARTCC high boundary:OBBB:
+ARTCC high boundary:OEJD:
+ARTCC high boundary:OIIX:
+ARTCC high boundary:OKAC:
+ARTCC high boundary:ORBB:
 Fixes:ALRUT:name
 Fixes:ALRUT:symbol
 Fixes:ALSAN:name
@@ -23,16 +26,10 @@ Fixes:ASVIR:name
 Fixes:ASVIR:symbol
 Fixes:BONIM:name
 Fixes:BONIM:symbol
-Fixes:BOSAK:name
-Fixes:BOSAK:symbol
 Fixes:BOXIK:name
 Fixes:BOXIK:symbol
 Fixes:DANAL:name
 Fixes:DANAL:symbol
-Fixes:DARVA:name
-Fixes:DARVA:symbol
-Fixes:DASMA:name
-Fixes:DASMA:symbol
 Fixes:DAVUS:name
 Fixes:DAVUS:symbol
 Fixes:DEBTI:name
@@ -41,8 +38,6 @@ Fixes:DEKOB:name
 Fixes:DEKOB:symbol
 Fixes:DESLU:name
 Fixes:DESLU:symbol
-Fixes:EGLUR:name
-Fixes:EGLUR:symbol
 Fixes:GESAK:name
 Fixes:GESAK:symbol
 Fixes:IMDOX:name
@@ -51,8 +46,6 @@ Fixes:IVETA:name
 Fixes:IVETA:symbol
 Fixes:KATOD:name
 Fixes:KATOD:symbol
-Fixes:KUBAR:name
-Fixes:KUBAR:symbol
 Fixes:KUMBO:name
 Fixes:KUMBO:symbol
 Fixes:KUNRU:name
@@ -81,12 +74,6 @@ Fixes:RALKA:name
 Fixes:RALKA:symbol
 Fixes:RETEL:name
 Fixes:RETEL:symbol
-Fixes:RISKA:name
-Fixes:RISKA:symbol
-Fixes:SELEG:name
-Fixes:SELEG:symbol
-Fixes:SELPI:name
-Fixes:SELPI:symbol
 Fixes:SESRA:name
 Fixes:SESRA:symbol
 Fixes:SIDAD:name
@@ -301,77 +288,81 @@ Free Text:OKBK\W5:freetext
 Free Text:OKBK\W7:freetext
 Free Text:OKBK\W8:freetext
 Free Text:OKBK\W9:freetext
+Free Text:Sectors\OBBB_N_CTR/OBBB_CTR:freetext
+Free Text:Sectors\OEJD_E_CTR/OEJD_CTR:freetext
+Free Text:Sectors\OEJD_E_CTR/OEJD_CTR:freetext
+Free Text:Sectors\OIIX_CTR:freetext
+Free Text:Sectors\OIIX_CTR:freetext
+Free Text:Sectors\ORBB_CTR:freetext
+Free Text:Sectors\ORBB_CTR:freetext
 Geo:Coastline:
 Geo:GEO:
 Geo:OKAJ:
 Geo:OKBK:
-NDBs:NR:frequency
-NDBs:NR:name
-NDBs:NR:symbol
-Runways:OKAS Ali Al Salem AB 12L-30R:centerline
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 1
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 1 left base
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 1 left ticks
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 1 left vectoring
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 1 right base
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 1 right ticks
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 1 right vectoring
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 2
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 2 left base
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 2 left ticks
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 2 left vectoring
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 2 right base
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 2 right ticks
-Runways:OKAS Ali Al Salem AB 12L-30R:extended centerline 2 right vectoring
-Runways:OKAS Ali Al Salem AB 12L-30R:name
-Runways:OKAS Ali Al Salem AB 12R-30L:centerline
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 1
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 1 left base
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 1 left ticks
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 1 left vectoring
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 1 right base
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 1 right ticks
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 1 right vectoring
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 2
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 2 left base
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 2 left ticks
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 2 left vectoring
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 2 right base
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 2 right ticks
-Runways:OKAS Ali Al Salem AB 12R-30L:extended centerline 2 right vectoring
-Runways:OKAS Ali Al Salem AB 12R-30L:name
-Runways:OKBK Kuwait Intl 15L-33R:centerline
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 1
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 1 left base
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 1 left ticks
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 1 left vectoring
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 1 right base
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 1 right ticks
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 1 right vectoring
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 2
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 2 left base
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 2 left ticks
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 2 left vectoring
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 2 right base
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 2 right ticks
-Runways:OKBK Kuwait Intl 15L-33R:extended centerline 2 right vectoring
-Runways:OKBK Kuwait Intl 15L-33R:name
-Runways:OKBK Kuwait Intl 15R-33L:centerline
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 1
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 1 left base
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 1 left ticks
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 1 left vectoring
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 1 right base
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 1 right ticks
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 1 right vectoring
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 2
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 2 left base
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 2 left ticks
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 2 left vectoring
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 2 right base
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 2 right ticks
-Runways:OKBK Kuwait Intl 15R-33L:extended centerline 2 right vectoring
-Runways:OKBK Kuwait Intl 15R-33L:name
+Runways:OKAS ALI AL SALEM AB 12L-30R:centerline
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 1
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 1 left base
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 1 left ticks
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 1 left vectoring
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 1 right base
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 1 right ticks
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 1 right vectoring
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 2
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 2 left base
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 2 left ticks
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 2 left vectoring
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 2 right base
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 2 right ticks
+Runways:OKAS ALI AL SALEM AB 12L-30R:extended centerline 2 right vectoring
+Runways:OKAS ALI AL SALEM AB 12L-30R:name
+Runways:OKAS ALI AL SALEM AB 12R-30L:centerline
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 1
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 1 left base
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 1 left ticks
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 1 left vectoring
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 1 right base
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 1 right ticks
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 1 right vectoring
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 2
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 2 left base
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 2 left ticks
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 2 left vectoring
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 2 right base
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 2 right ticks
+Runways:OKAS ALI AL SALEM AB 12R-30L:extended centerline 2 right vectoring
+Runways:OKAS ALI AL SALEM AB 12R-30L:name
+Runways:OKBK KUWAIT INTL 15L-33R:centerline
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 1
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 1 left base
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 1 left ticks
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 1 left vectoring
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 1 right base
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 1 right ticks
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 1 right vectoring
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 2
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 2 left base
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 2 left ticks
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 2 left vectoring
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 2 right base
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 2 right ticks
+Runways:OKBK KUWAIT INTL 15L-33R:extended centerline 2 right vectoring
+Runways:OKBK KUWAIT INTL 15L-33R:name
+Runways:OKBK KUWAIT INTL 15R-33L:centerline
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 1
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 1 left base
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 1 left ticks
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 1 left vectoring
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 1 right base
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 1 right ticks
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 1 right vectoring
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 2
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 2 left base
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 2 left ticks
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 2 left vectoring
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 2 right base
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 2 right ticks
+Runways:OKBK KUWAIT INTL 15R-33L:extended centerline 2 right vectoring
+Runways:OKBK KUWAIT INTL 15R-33L:name
 VORs:KFR:frequency
 VORs:KFR:name
 VORs:KFR:symbol
@@ -390,4 +381,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:GSiT
-WINDOWAREA:27.693458:44.907816:30.361801:51.300996
+WINDOWAREA:27.195856:44.398400:30.717771:52.397710
