@@ -1,6 +1,6 @@
 # Kuwaiti Controller Pack
 Kuwaiti Controller Pack | 2018
-Welcome to the Kuwaiti Controller pack! The mian sectorfile for controllers in the Kuwaiti FIR. This controller pack was created from scratch by Chriss Klosowski (1306415). 
+Welcome to the Kuwaiti Controller pack! The main sectorfile for controllers in the Kuwaiti FIR. This controller pack was created from scratch by Chriss Klosowski (1306415). 
 
 ## Installation
 
