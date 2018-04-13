@@ -1,0 +1,8 @@
+VOICE
+AG:Kuwait Control:125.300:voice1.vatsim-germany.org:okac_ctr
+AG:Kuwait Radar:121.300:voice1.vatsim-germany.org:okbk_app
+AG:Kuwait Tower:118.300:voice1.vatsim-germany.org:okbk_twr
+AG:Kuwait Ground:121.700:voice1.vatsim-germany.org:okbk_gnd
+AG:Kuwait Delivery:126.770:voice1.vatsim-germany.org:okbk_del
+AG:Kuwait Information:126.220:voice1.vatsim-germany.org:okbk_atis
+END

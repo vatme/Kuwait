@@ -1,0 +1,42 @@
+Settings	Settingsfile	\Data\Settings\AllSettings.txt
+Settings	sector	\Data\Sector\Kuwait.sct
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airways	\DataFiles\airway.txt
+LastSession	callsign	OKAC_CTR
+Voice	squelch	95.4
+Voice	PPPT	18677760
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+RecentFiles	Recent1	\Data\ASR\Kuwait ACC.asr
+LastSession	connecttype	0
+LastSession	facility	6
+LastSession	rating	0
+LastSession	range	250
+Settings	AtisFolder	\Data\ATIS\atisfiles.txt
+LastSession	atis_airport	OKBK
+LastSession	atis_letter	66
+LastSession	tovatsim	1
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	SettingsfileSYMBOLOGY	\Data\Settings\symbology.txt
+Settings	SettingsfileVOICE	\Data\Settings\voice.txt
+Settings	SettingsfilePROFILE	\Data\Settings\profiles.txt
+Settings	SettingsfileTAGS	\Data\Settings\AllSettings.txt
+Settings	SettingsfileSIL	\Data\Settings\AllSettings.txt
+Settings	SettingsfileSEL	\Data\Settings\AllSettings.txt
+Settings	SettingsfileDEP	\Data\Settings\AllSettings.txt
+Settings	SettingsfileARR	\Data\Settings\AllSettings.txt
+Settings	SettingsfileFP	\Data\Settings\AllSettings.txt
+Settings	SettingsfilePLUGINS	\Data\Settings\AllSettings.txt
+Settings	SettingsfileSCREEN	\Data\Settings\AllSettings.txt
+Settings	SettingsfileCONFLICT	\Data\Settings\AllSettings.txt
+Settings	SettingsfileVCCS	\Data\Settings\AllSettings.txt
+LastSession	atis2	Kuwait Control
+LastSession	atis3	Report Intitial Altitude, Position and Aircraft Type on Initial Contact
+LastSession	atis4	Charts & Procedures @ vatame.org/vacc/OKAC
+Plugins	Plugin0	\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\Data\Plugins\HoldingList\HoldingListPlugin.dll
+Plugins	Plugin1Display0	Standard ES radar screen

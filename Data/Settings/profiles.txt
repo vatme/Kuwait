@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:OKAC_CTR:250:6
+ATIS2:Kuwait Control
+ATIS3:Report Intitial Altitude, Position and Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ vatame.org/vacc/OKAC
+PROFILE:OKBK_APP:150:5
+ATIS2:Kuwait Radar
+ATIS3:Report Intitial Altitude, Position and Aircraft Type on Initial Contact
+ATIS4:Charts & Procedures @ vatame.org/vacc/OKAC
+PROFILE:OKBK_TWR:50:4
+ATIS2:Kuwait Tower
+ATIS3:Report initial altitude, heading on initial contact
+ATIS4:Charts & Procedures @ vatame.org/vacc/OKAC
+PROFILE:OKBK_GND:20:3
+ATIS2:Kuwait Ground
+ATIS3:Squawk mode Standby on the Ground!
+ATIS4:Charts & Procedures @ vatame.org/vacc/OKAC
+PROFILE:OKBK_DEL:10:2
+ATIS2:Kuwait Delivery
+ATIS3:Report stand and aircraft type on initial contact
+ATIS4:Charts & Procedures @ vatame.org/vacc/OKAC
+END

@@ -1,0 +1,196 @@
+SYMBOLOGY
+SYMBOLSIZE
+Airports:symbol:7369587:1.0:0:0:7
+Airports:name:7369587:3.5:0:0:2
+Low airways:line:7369587:3.5:2:0:7
+Low airways:name:7369587:3.5:0:0:8
+High airways:line:7369587:3.5:2:0:7
+High airways:name:7369587:3.5:0:0:6
+Fixes:symbol:7369587:1.0:0:0:7
+Fixes:name:7369587:3.5:0:0:2
+Sids:line:7369587:3.0:0:0:7
+Stars:line:7369587:3.0:2:0:7
+ARTCC high boundary:line:7697781:3.0:0:0:7
+ARTCC boundary:line:7697781:3.0:0:0:7
+ARTCC low boundary:line:7697781:3.0:2:0:7
+Geo:line:9078149:3.0:0:0:7
+VORs:symbol:7369587:1.0:0:0:7
+VORs:name:7369587:3.5:0:0:2
+VORs:frequency:7369587:3.5:0:0:0
+NDBs:symbol:7369587:1.0:0:0:7
+NDBs:name:7369587:3.5:0:0:2
+NDBs:frequency:7369587:3.5:0:0:0
+Runways:centerline:3618615:3.5:0:0:7
+Runways:extended centerline:14474460:3.5:0:0:7
+Runways:name:3618615:3.5:0:0:7
+Datablock:non concerned:5131633:3.5:0:0:7
+Datablock:notified:12124160:3.5:0:0:7
+Datablock:assumed:65537:3.5:0:0:7
+Datablock:transfer to me initiated:16777024:3.5:0:0:7
+Datablock:redundant:739508:3.5:0:0:7
+Datablock:information:7136492:3.5:0:0:7
+Datablock:even flight level:16777215:3.5:0:0:7
+Datablock:odd flight level:16777215:3.5:0:0:7
+Datablock:arrivals:16777215:3.5:0:0:7
+Datablock:departures:16777215:3.5:0:0:7
+Datablock:user 1:65535:3.5:0:0:7
+Datablock:user 2:16777215:3.5:0:0:7
+Datablock:user 3:16777215:3.5:0:0:7
+Datablock:user 4:16777215:3.5:0:0:7
+Datablock:user 5:16777215:3.5:0:0:7
+Datablock:user 6:16777215:3.5:0:0:7
+Datablock:emergency:526248:3.5:0:0:7
+Datablock:ongoing requested by me:16777214:3.5:0:0:7
+Datablock:ongoing requested by other:16777214:3.5:0:0:7
+Datablock:ongoing accepted:5700009:3.5:0:0:7
+Datablock:ongoing refused:7136492:3.5:0:0:7
+Datablock:detailed background:12172990:3.5:0:0:7
+Datablock:active item background:13881297:3.5:0:0:7
+Datablock:AC list background:9543842:3.5:0:0:7
+Datablock:AC list selected background:12172990:3.5:0:0:7
+Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
+Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
+Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
+Datablock:SCTA warning leader:3289855:3.5:0:3:7
+Datablock:SCTA CFL used warning leader:65535:3.5:0:3:7
+Controller:normal:0:3.5:0:0:7
+Controller:breaking:33023:3.5:0:0:7
+Controller:timeout:8421504:3.5:0:0:7
+Metar:normal:16777215:3.5:0:0:7
+Metar:modified:1365724:3.5:0:0:7
+Metar:timeout:8421504:3.5:0:0:7
+Other:wait:16777215:3.5:0:0:7
+Other:distance line:13158600:3.5:0:0:7
+Other:distance values:13158600:4.0:0:0:7
+Other:distance annotation:13158600:3.5:0:0:7
+Other:separation leader:16777215:3.5:0:3:7
+Other:separation leader2:16777215:3.5:0:1:7
+Other:find:16777215:3.5:0:5:7
+Other:valid airway:116736:3.5:0:2:7
+Other:bad direction airway:68518:3.5:0:2:7
+Other:unconnected airway:7136491:3.5:0:2:7
+Other:direct no airway:16776387:3.5:0:2:7
+Other:free of conflict:116736:3.5:0:2:7
+Other:conflict warning:7136491:3.5:0:2:7
+Other:conflict detected:68518:3.5:0:2:7
+Other:route annotation:16776387:3.5:0:1:7
+Other:freetext:4210752:3.5:0:0:7
+Other:range rings:14211545:5.0:0:0:2
+Other:off antenna range rings:255:5.0:0:0:2
+Other:plane range rings:5921370:5.0:0:0:2
+Other:manual taxi line:16777215:5.0:0:3:2
+Other:manual taxi line ends at predefined point:65535:5.0:0:3:2
+Other:predefined taxi line:65280:5.0:0:3:2
+Other:terminal taxi line:255:5.0:0:3:2
+Other:list header:256:3.5:0:0:7
+Other:normal menu item:16777215:3.5:0:0:7
+Other:disabled menu item:8355711:3.5:0:0:7
+Transitions:transition grid:5263440:3.0:0:0:7
+Chat:text:12632256:3.5:0:0:7
+Chat:background:3289650:3.5:0:0:7
+Chat:name normal:8421504:3.5:0:0:7
+Chat:name unread:65736:3.5:0:0:7
+Ground Network:exit:16711680:3.5:0:3:7
+Ground Network:taxiway:65280:3.5:0:3:7
+Ground Network:terminal taxiway:255:3.5:0:3:7
+Sector:line:7368816:4.0:0:2:7
+Sector:msaw:32768:2.0:0:2:7
+Sector:active sector background:8819084:3.5:0:0:7
+Sector:inactive sector background:10331300:3.5:0:0:7
+SYMBOL:0
+SYMBOLITEM:MOVETO -3 0
+SYMBOLITEM:LINETO 5 0
+SYMBOLITEM:MOVETO -3 1
+SYMBOLITEM:LINETO 5 1
+SYMBOLITEM:MOVETO 0 -3
+SYMBOLITEM:LINETO 0 5
+SYMBOLITEM:MOVETO 1 -3
+SYMBOLITEM:LINETO 1 5
+SYMBOL:1
+SYMBOLITEM:MOVETO -4 -1
+SYMBOLITEM:LINETO -4 -3
+SYMBOLITEM:LINETO 4 -3
+SYMBOLITEM:LINETO 4 0
+SYMBOLITEM:SETPIXEL -3 0
+SYMBOLITEM:SETPIXEL -3 1
+SYMBOLITEM:SETPIXEL 3 0
+SYMBOLITEM:SETPIXEL 3 1
+SYMBOLITEM:SETPIXEL -2 2
+SYMBOLITEM:SETPIXEL 2 2
+SYMBOLITEM:SETPIXEL -1 3
+SYMBOLITEM:SETPIXEL 1 3
+SYMBOLITEM:SETPIXEL 0 4
+SYMBOL:2
+SYMBOLITEM:MOVETO -4 -4
+SYMBOLITEM:LINETO 4 -4
+SYMBOLITEM:LINETO 4 4
+SYMBOLITEM:LINETO -4 4
+SYMBOLITEM:LINETO -4 -4
+SYMBOL:3
+SYMBOLITEM:MOVETO -4 1
+SYMBOLITEM:LINETO -4 3
+SYMBOLITEM:LINETO 4 3
+SYMBOLITEM:LINETO 4 0
+SYMBOLITEM:SETPIXEL -3 0
+SYMBOLITEM:SETPIXEL -3 -1
+SYMBOLITEM:SETPIXEL 3 0
+SYMBOLITEM:SETPIXEL 3 -1
+SYMBOLITEM:SETPIXEL -2 -2
+SYMBOLITEM:SETPIXEL 2 -2
+SYMBOLITEM:SETPIXEL -1 -3
+SYMBOLITEM:SETPIXEL 1 -3
+SYMBOLITEM:SETPIXEL 0 -4
+SYMBOL:4
+SYMBOLITEM:MOVETO 0 -1
+SYMBOLITEM:LINETO 0 2
+SYMBOLITEM:MOVETO -1 0
+SYMBOLITEM:LINETO 2 0
+SYMBOL:5
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:6
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:7
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:8
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:9
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:10
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:11
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:12
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:13
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:14
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:15
+SYMBOLITEM:MOVETO 0 6
+SYMBOLITEM:LINETO 0 -6
+SYMBOLITEM:MOVETO 0 0
+SYMBOLITEM:LINETO -7 2
+SYMBOLITEM:MOVETO 0 0
+SYMBOLITEM:LINETO 7 2
+SYMBOLITEM:MOVETO -2 6
+SYMBOLITEM:LINETO 3 6
+SYMBOL:16
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:17
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:18
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:19
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:20
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:21
+SYMBOLITEM:MOVETO 0 0
+SYMBOL:22
+SYMBOLITEM:MOVETO -3 7
+SYMBOLITEM:LINETO 3 7
+SYMBOLITEM:LINETO 3 -7
+SYMBOLITEM:LINETO -3 -7
+SYMBOLITEM:LINETO -3 7
+m_ClipArea:0
+END
