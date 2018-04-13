@@ -16,7 +16,7 @@ If this is the first time that you are downloading this sector file, please foll
 2. Download the zip file of this sector file by clicking the Download Zip button on the right side.
 3. Extract the zip file anywhere on your computer.
 4. Open Euroscope and you will be asked to choose a Profile
-5. Browse to the folder where you extracted the zip file in step 3 and choose the OKAC.prf file
+5. Browse to the folder where you extracted the zip file in step 3 and choose the Kuwait.prf file
 6. Euroscope will open the sector file.
 7. For a how-to on using Euroscope, please visit: http://www.euroscope.hu/Docs/EuroScope_in_30_minutes.pdf
 
@@ -25,7 +25,7 @@ Updating the AIRAC is necessary as airport airways, fixes, SIDs, and STARs chang
 
 1. Download the zip file of this sector file by clicking the Download Zip button on the right side.
 2. Extract the zip file anywhere on your computer.
-3. Open the extracted files and copy the DataFiles folder, OKAC.ese, and OKAC.sct files and replace the same files in your current Kuwait folder.
+3. Open the extracted files and copy the DataFiles folder, Kuwait.ese, and Kuwait.sct files and replace the same files in your current Kuwait folder.
 
 ##Support
 For support on sector files, contact the VATME Support Team at: http://support.vatme.net
